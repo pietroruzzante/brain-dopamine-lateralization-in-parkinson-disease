@@ -1,8 +1,8 @@
 # Investigating brain dopamine lateralization in Parkinson’s Disease
 
-Ghiotto A., Longhini M., Palmarini C., Ruzzante P.
+**University of Padua, Department of Information Engineering (DEI)**
 
-University of Padua, Department of Information Engineering (DEI)
+Ghiotto A., Longhini M., Palmarini C., Ruzzante P.
 
 Biomarkers, Precision Medicine and Drug Development, Prof. M. Veronese, AY. 2023-24
 
