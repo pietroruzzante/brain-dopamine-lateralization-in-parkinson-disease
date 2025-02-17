@@ -1,6 +1,7 @@
 # brain-dopamine-lateralization-in-parkinson-disease
 
 **ABSTRACT**
+
 Parkinson's disease (PD) diagnosis and monitoring often use dopamine transporter (DAT) imaging with single-
 photon emission computed tomography (SPECT). This study investigated the lateralization of brain dopamine
 function and the potential of DATSCAN as a reliable biomarker for PD diagnosis. Utilizing data from the Parkinson’s
