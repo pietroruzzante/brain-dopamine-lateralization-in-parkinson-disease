@@ -5,7 +5,7 @@ Ghiotto A., Longhini M., Palmarini C., Ruzzante P.
 University of Padua, Department of Information Engineering (DEI).
 Biomarkers, Precision Medicine and Drug Development, Prof. M. Veronese, AY. 2023-24
 
-!(infographic.png)
+<img src="infographic.png" alt="graphical abstract" width="300">
 
 **ABSTRACT**
 
