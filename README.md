@@ -1,4 +1,4 @@
-# brain-dopamine-lateralization-in-parkinson-disease
+# Investigating brain dopamine lateralization in Parkinson’s Disease
 
 Ghiotto A., Longhini M., Palmarini C., Ruzzante P.
 
