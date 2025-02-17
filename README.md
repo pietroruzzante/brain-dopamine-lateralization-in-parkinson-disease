@@ -1,5 +1,10 @@
 # brain-dopamine-lateralization-in-parkinson-disease
 
+Ghiotto A., Longhini M., Palmarini C., Ruzzante P.
+
+University of Padua, Department of Information Engineering (DEI).
+Biomarkers, Precision Medicine and Drug Development, Prof. M. Veronese, AY. 2023-24
+
 **ABSTRACT**
 
 Parkinson's disease (PD) diagnosis and monitoring often use dopamine transporter (DAT) imaging with single-
